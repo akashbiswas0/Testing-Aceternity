@@ -4,6 +4,7 @@ import { TextGenerateEffectDemo } from "./ui/text";
 import Footer from "./ui/footer";
 import Navbar from "./ui/nav";
 import Breaker from "./ui/breaker";
+import Services from "./ui/services";
 
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
         <HeroParallaxDemo />
         <TextGenerateEffectDemo />
         <Breaker />
+        <Services />
         <Footer />
       </div>
    
