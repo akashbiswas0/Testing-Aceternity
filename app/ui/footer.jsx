@@ -3,13 +3,13 @@ export default function footer() {
 
     
 
-<footer className="bg-zinc-900 dark:bg-gray-900 rounded-xl">
+<footer className="bg-zinc-900 dark:bg-gray-900 ">
     <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
         <div className="md:flex md:justify-between">
           <div className="mb-2 md:mb-0">
               <a href="#" className="flex items-center">
                   <img src="https://play-lh.googleusercontent.com/mlZR_qzNaeAu7-iztAuHC89dUQ92f2QBkT3Fv2PpPa7XDZyo1SAYFYX9xAdw-2rkFkiK" className="h-12 me-3 rounded-full" alt="Logo" />
-                  <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Grohostin</span>
+                  <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white text-white">Grohostin</span>
               </a>
           </div>
           <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
